@@ -88,7 +88,7 @@ Github extends the functionality of markdown tables to provide more alignement a
 
 ![Cat pic](assets/cat.jpeg)
 
-[Secret Windown Hidden Garden](secret-window/hidden-garden.md
+[Secret Window Hidden Garden](secret-window/hidden-garden.md)
 
 ## References
 
