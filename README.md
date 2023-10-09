@@ -50,6 +50,12 @@ RuntimeError: Failed to open database
 ```
 > Here is an example of using Codeblocks for an error that appears in bash
 
+## Step 2 - How to take screenshots
+
+A screenshot is when you capture a part of your screen from your laptop, desktop or phone.
+
+This is not to be confused with taking a photo with your phone.
+
 ## Step 3 - Use Github Flavored Task Lists
 
 Github extends markdown to have a list where you can check off items.[<sup>[1]</sup>](#references)
@@ -79,6 +85,8 @@ You can use the following mardown format to create tables:
 |Cloud with lightning  | `:cloud_with_lightning:`  | 🌩️ |
 ```
 Github extends the functionality of markdown tables to provide more alignement and table cell formatting options.[<sup>[2]</sup>](#references)
+
+![Cat pic](assets/cat.jpeg)
 
 ## References
 
